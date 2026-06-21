@@ -1,0 +1,9 @@
+{
+     "channels": {
+       "telegram": {
+         "enabled": true,
+         "botToken": "8688729866:AAFF2TRUviyXTtnPHebScN-JZo5KttNXhDg",
+         "dmPolicy": "pairing"
+       }
+     }
+   }
