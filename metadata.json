@@ -1,0 +1,6 @@
+{
+  "name": "AgentWay AI",
+  "description": "A mindful and motivated AI Agent Vocabulary Assistant featuring interactive review, analytics, and simulated Telegram/OpenClaw synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
