@@ -2,8 +2,20 @@
      "channels": {
        "telegram": {
          "enabled": true,
-         "botToken": "8688729866:AAFF2TRUviyXTtnPHebScN-JZo5KttNXhDg",
+         "botToken": "8711765064:AAF4tpNiI-qMdfwHoFY_vlfJvwPQk-Q50Zg",
          "dmPolicy": "pairing"
        }
      }
-   }
+
+  
+"plugins": {
+  "entries": {
+    "qwen": {
+      "config": {
+        "apiKey": "sk-68060bb12edf4455928eff05bd817576",
+        "api_key": "sk-68060bb12edf4455928eff05bd817576"
+      }
+    }
+  }
+}
+}
